@@ -1,0 +1,10 @@
+{
+ "version": "0.2",
+ "build": "93",
+ "notes": "Beta \u2014 steadier handling of backup drives.\n\n- An empty transfer no longer gets stuck on a drive that's full or missing\n- Clearer messages when a copy fails\n- No change to how footage is copied or verified\n- This is a test build. To go back, use Back to stable in Settings: you keep this build until the next regular update",
+ "minOS": "10.0.17763",
+ "setupURL": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/windows-0.2.93/SafeStoreSetup.exe",
+ "sha256": "90e0c659a81b498bbd7aac753c6191991dee104bbfcdca2636e0ca5cbf716736",
+ "size": 90846886,
+ "publishedAt": "2026-10-16T01:52:20Z"
+}
