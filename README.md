@@ -15,4 +15,4 @@ live in [SafeStore-releases](https://github.com/CazzaCoder/SafeStore-releases).
 
 ## Current beta Windows: 93
 
-[Download SafeStoreSetup.exe (beta)](https://github.com/CazzaCoder/safestore-beta-releases/releases/download/win-build-93/SafeStoreSetup.exe)
+[Download SafeStoreSetup.exe (beta)](https://github.com/CazzaCoder/safestore-beta-releases/releases/download/windows-0.2.93/SafeStoreSetup.exe)
