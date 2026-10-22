@@ -9,9 +9,9 @@ live in [SafeStore-releases](https://github.com/CazzaCoder/SafeStore-releases).
 - Mac feed: `appcast.json` · Windows feed: `appcast-win.json` (written by the publish scripts)
 - Build numbers are shared with stable: a beta build N is the same bytes if it is later promoted.
 
-## Current beta Mac: 90
+## Current beta Mac: 91
 
-[Download SafeStore.dmg (beta)](https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-90/SafeStore.dmg)
+[Download SafeStore.dmg (beta)](https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-91/SafeStore.dmg)
 
 ## Current beta Windows: 94
 
