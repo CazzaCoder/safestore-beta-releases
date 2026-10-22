@@ -1,10 +1,11 @@
 {
  "version": "0.2",
- "build": "93",
- "notes": "Beta \u2014 steadier handling of backup drives.\n\n- An empty transfer no longer gets stuck on a drive that's full or missing\n- Clearer messages when a copy fails\n- No change to how footage is copied or verified\n- This is a test build. To go back, use Back to stable in Settings: you keep this build until the next regular update",
+ "build": "94",
+ "notes": "Test build for field testing. If you're not testing, you don't need this \u2014 the live build stays as it is.\n\n- Drone cards with several dates go straight through, and drones are no longer filed as tripods\n- Twin SD cards from one camera aren't auto-filled as two devices, and a card can't be picked for two rows\n- The eject line only shows for a real SD card, and only says \"Ready to eject\" when it is\n- The Dropbox code box stays open if the browser doesn't launch\n- New: a \"Test build\" badge, and Return to stable in Settings \u2192 Unlock codes to go back to the live build any time",
  "minOS": "10.0.17763",
- "setupURL": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/windows-0.2.93/SafeStoreSetup.exe",
- "sha256": "90e0c659a81b498bbd7aac753c6191991dee104bbfcdca2636e0ca5cbf716736",
- "size": 90846886,
- "publishedAt": "2026-10-16T01:52:20Z"
+ "setupURL": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/windows-0.2.94/SafeStoreSetup.exe",
+ "sha256": "59ecb1afee7d20343dd605e9d8675128ece9e06f09933193d4f457406baeee6e",
+ "size": 90912422,
+ "publishedAt": "2026-10-22T01:43:43Z",
+ "readsLedgerSchema": 1
 }
