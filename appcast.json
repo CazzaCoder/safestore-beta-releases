@@ -1,11 +1,12 @@
 {
   "version": "0.2",
-  "build": "89",
-  "notes": "Beta \u2014 safer handling when your backup drive changes.\n\n- If your backup drive fills up or goes missing, you can move the wedding to another drive or copy the cards onto a new one, and SafeStore keeps track of which drive holds what\n- Empty transfers no longer get stuck on a full or missing drive, and adding a second SD card while uploads run no longer leaves stray files in Dropbox\n- Clearer messages when a drive, card or Dropbox step needs you\n- No change to how footage is copied or verified\n- This is a test build. To go back, use Back to stable in Settings: you keep this build until the next regular update",
+  "build": "90",
+  "notes": "Test build for field testing. If you're not testing, you don't need this \u2014 the live build stays as it is.\n\n- Drone cards with several dates go straight through, and drones are no longer filed as tripods\n- A card waiting on another card's backup check now verifies after that card finishes, instead of failing with \"needs dest-hash\"\n- RODEs held by another transfer show as \"in use by \u2026\" instead of disappearing\n- Footage already backed up for another wedding is judged by what was actually copied, so a shared RODE or drone doesn't block today's wedding\n- New: a \"Test build\" badge, and Return to stable in Settings \u2192 Unlock codes to go back to the live build any time",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-89/SafeStore.dmg",
-  "dmgShareUrl": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-89/SafeStore.dmg",
-  "sha256": "2199739b095a1892a94fa82a81fee92a4b986b95e034c56376be2dc29efa45ab",
-  "size": 11120655,
-  "publishedAt": "2026-10-16T01:52:07Z"
+  "dmgURL": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-90/SafeStore.dmg",
+  "dmgShareUrl": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-90/SafeStore.dmg",
+  "sha256": "a91800590bc54d09eab674f9adf9e1819de2b9d6bacb67f8bb3cf32363f89201",
+  "size": 11314835,
+  "publishedAt": "2026-10-22T01:43:07Z",
+  "readsLedgerSchema": 2
 }
