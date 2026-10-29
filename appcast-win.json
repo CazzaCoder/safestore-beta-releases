@@ -1,11 +1,11 @@
 {
  "version": "0.3",
- "build": "95",
- "notes": "Test build for field testing. If you're not testing, you don't need this \u2014 the live build stays as it is.\n\n- Several backup drives of the same kind plugged in at once (e.g. three T7s) no longer confuse SafeStore: it finds the right drive wherever it's mounted\n- SafeStore now keeps a copy of the transfer log in the backup folder, updated as it goes, so the drive itself records what happened\n- Stop works while adding an SD card waits for uploads\n- Everything from the previous test build (drone dates, cards verifying after others finish, RODE \"in use by\", Return to stable)",
+ "build": "96",
+ "notes": "Beta 0.3 (96): warnings now have one owner (pop-ups only when the owning window is hidden); completion chimes; backup-drive identity for same-named drives (audited, letter swaps refused); Needs attention always says why; Finish without optional devices; failed bug reports say Not sent.",
  "minOS": "10.0.17763",
- "setupURL": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/windows-0.3.95/SafeStoreSetup.exe",
- "sha256": "1ca3479608c886efa900bf422e26b34d75bd2542be4b5065078affb95fdee50d",
- "size": 90924710,
- "publishedAt": "2026-10-22T03:48:23Z",
+ "setupURL": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/windows-0.3.96/SafeStoreSetup.exe",
+ "sha256": "3ac2eb704d483fd5cf8884bcb4fccad57f93ed05dd2a2a53e537bc1e6c4fdb47",
+ "size": 90977958,
+ "publishedAt": "2026-10-29T03:14:47Z",
  "readsLedgerSchema": 1
 }
