@@ -1,12 +1,12 @@
 {
   "version": "0.3",
-  "build": "91",
-  "notes": "Test build for field testing. If you're not testing, you don't need this \u2014 the live build stays as it is.\n\n- Several backup drives of the same kind plugged in at once (e.g. three T7s) no longer confuse SafeStore: it finds the right drive wherever it's mounted\n- SafeStore now keeps a copy of the transfer log in the backup folder, updated as it goes, so the drive itself records what happened\n- Stop works while adding an SD card waits for uploads\n- Everything from the previous test build (drone dates, cards verifying after others finish, RODE \"in use by\", Return to stable)",
+  "build": "92",
+  "notes": "Beta 0.3 (92): warnings now have one owner (pop-ups only when the owning screen is hidden); completion chimes; backup-drive identity for same-named drives (audited); Needs attention always says why; Finish without optional devices; bug-report failures shown beside Send; upload timeout fix.",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-91/SafeStore.dmg",
-  "dmgShareUrl": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-91/SafeStore.dmg",
-  "sha256": "e37f5ec1102814e19eb4a5b201d2dab67da703e2f38928262fa8078275cf7f43",
-  "size": 11406655,
-  "publishedAt": "2026-10-22T03:48:07Z",
+  "dmgURL": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-92/SafeStore.dmg",
+  "dmgShareUrl": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-92/SafeStore.dmg",
+  "sha256": "4abfb49c5ee98852132013ea27e0da063b083f60b246477be6f409d73ff4ba87",
+  "size": 11662888,
+  "publishedAt": "2026-10-29T03:13:23Z",
   "readsLedgerSchema": 2
 }
