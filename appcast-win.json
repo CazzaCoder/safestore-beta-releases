@@ -1,11 +1,11 @@
 {
  "version": "0.3",
- "build": "96",
- "notes": "Beta 0.3 (96): warnings now have one owner (pop-ups only when the owning window is hidden); completion chimes; backup-drive identity for same-named drives (audited, letter swaps refused); Needs attention always says why; Finish without optional devices; failed bug reports say Not sent.",
+ "build": "97",
+ "notes": "Faster and more responsive.\n\n- Weddings and couples load in the background as soon as SafeStore opens\n- Screens stay responsive while cards and drives are being checked\n- Start double-checks that the Dropbox wedding folder you picked is still there\n- Card badges are more careful about which card is in the reader\n- Fixes from the last round of testing; no change to how footage is copied or verified",
  "minOS": "10.0.17763",
- "setupURL": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/windows-0.3.96/SafeStoreSetup.exe",
- "sha256": "3ac2eb704d483fd5cf8884bcb4fccad57f93ed05dd2a2a53e537bc1e6c4fdb47",
- "size": 90977958,
- "publishedAt": "2026-10-29T03:14:47Z",
+ "setupURL": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/windows-0.3.97/SafeStoreSetup.exe",
+ "sha256": "2f7ce7d6505381d0ed7de8235bc76795f02e6ab7004aac8f5909fcb2f755f1ce",
+ "size": 107798341,
+ "publishedAt": "2026-10-30T00:39:23Z",
  "readsLedgerSchema": 1
 }

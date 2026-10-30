@@ -13,6 +13,6 @@ live in [SafeStore-releases](https://github.com/CazzaCoder/SafeStore-releases).
 
 [Download SafeStore.dmg (beta)](https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-92/SafeStore.dmg)
 
-## Current beta Windows: 96
+## Current beta Windows: 97
 
-[Download SafeStoreSetup.exe (beta)](https://github.com/CazzaCoder/safestore-beta-releases/releases/download/windows-0.3.96/SafeStoreSetup.exe)
+[Download SafeStoreSetup.exe (beta)](https://github.com/CazzaCoder/safestore-beta-releases/releases/download/windows-0.3.97/SafeStoreSetup.exe)
