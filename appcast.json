@@ -1,12 +1,12 @@
 {
   "version": "0.3",
-  "build": "92",
-  "notes": "Beta 0.3 (92): warnings now have one owner (pop-ups only when the owning screen is hidden); completion chimes; backup-drive identity for same-named drives (audited); Needs attention always says why; Finish without optional devices; bug-report failures shown beside Send; upload timeout fix.",
+  "build": "93",
+  "notes": "Faster and more responsive.\n\n- Weddings and couples load in the background as soon as SafeStore opens\n- Screens stay responsive while transfers and drives are being checked\n- Start double-checks that the Dropbox wedding folder you picked is still there\n- Clearer messages when a backup drive has been renamed or moved\n- Fixes from the last round of testing; no change to how footage is copied or verified",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-92/SafeStore.dmg",
-  "dmgShareUrl": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-92/SafeStore.dmg",
-  "sha256": "4abfb49c5ee98852132013ea27e0da063b083f60b246477be6f409d73ff4ba87",
-  "size": 11662888,
-  "publishedAt": "2026-10-29T03:13:23Z",
+  "dmgURL": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-93/SafeStore.dmg",
+  "dmgShareUrl": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-93/SafeStore.dmg",
+  "sha256": "32340f8de0e129967355b393bbb834c445e9388a85dbc8e8991f8399c8015c91",
+  "size": 11761881,
+  "publishedAt": "2026-10-30T00:44:13Z",
   "readsLedgerSchema": 2
 }
