@@ -1,12 +1,12 @@
 {
   "version": "0.3",
-  "build": "93",
-  "notes": "Faster and more responsive.\n\n- Weddings and couples load in the background as soon as SafeStore opens\n- Screens stay responsive while transfers and drives are being checked\n- Start double-checks that the Dropbox wedding folder you picked is still there\n- Clearer messages when a backup drive has been renamed or moved\n- Fixes from the last round of testing; no change to how footage is copied or verified",
+  "build": "95",
+  "notes": "Fixes from the latest round of beta testing.\n\n- Renaming a card after plugging it in no longer mixes up which device it's assigned to\n- When the internet is too unstable to upload, SafeStore says so and keeps re-checking Dropbox on its own\n- A second card from the same camera goes into the next free slot, and installer disk images aren't offered as cards\n- Cards only show Verified once their backup check has finished\n- The transfer page stays put when you press Start backup",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-93/SafeStore.dmg",
-  "dmgShareUrl": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-93/SafeStore.dmg",
-  "sha256": "32340f8de0e129967355b393bbb834c445e9388a85dbc8e8991f8399c8015c91",
-  "size": 11761881,
-  "publishedAt": "2026-10-30T00:44:13Z",
+  "dmgURL": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-95/SafeStore.dmg",
+  "dmgShareUrl": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-95/SafeStore.dmg",
+  "sha256": "68265745f1fec47ab8b2a31b3407d7fb3e773b04cbdb77eaf1344b01f005145b",
+  "size": 11917026,
+  "publishedAt": "2026-11-04T04:02:39Z",
   "readsLedgerSchema": 2
 }
