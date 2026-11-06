@@ -1,12 +1,12 @@
 {
   "version": "0.3",
-  "build": "96",
-  "notes": "Fixes from automated testing of the whole app.\n\n- Renaming a card in Finder keeps it in its device's SD picker\n- The damaged-footage alert names the clips, with a Show files button\n- The backup drive health note no longer covers the Assign SD buttons\n- Finished transfers say Delivered, and cards SafeStore can't be sure about say why on the row\n- No change to how footage is copied or verified",
+  "build": "97",
+  "notes": "Clearer backup-drive messages and smoother screens.\n\n- Reopening a finished transfer with its backup drive unplugged now tells you to plug it back in\n- Move backup is greyed out when it can't run, instead of looking clickable\n- Fixes small screen glitches in the setup steps and when switching pages\n- No change to how footage is copied or verified",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-96/SafeStore.dmg",
-  "dmgShareUrl": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-96/SafeStore.dmg",
-  "sha256": "3a5e0a2b9e198c0ba59180fcdd514e9d7cdf80ba10d7ef3928002045bea58790",
-  "size": 12042655,
-  "publishedAt": "2026-11-05T23:32:28Z",
+  "dmgURL": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-97/SafeStore.dmg",
+  "dmgShareUrl": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-97/SafeStore.dmg",
+  "sha256": "ad9e770362d4ab983af70650ad6beae59b55acc8173fe4bded83d260edfdd31d",
+  "size": 12048627,
+  "publishedAt": "2026-11-06T04:03:15Z",
   "readsLedgerSchema": 2
 }
