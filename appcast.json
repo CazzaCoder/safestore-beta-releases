@@ -1,12 +1,12 @@
 {
   "version": "0.3",
-  "build": "98",
-  "notes": "Fixes for backup drives that drop out during uploads, plus smarter card matching.\n\n- A backup drive that briefly disconnects no longer marks files as changed. Plug it back in and uploads carry on (press Resume if the transfer had already stopped)\n- Files that earlier builds wrongly marked as changed are re-checked and uploaded\n- Cards are recognised by the clips on them, so a reused card is never mistaken for an old one\n- Each transfer shows its upload speed while uploading\n- If this update won't install: download SafeStore.dmg from the beta releases page, quit SafeStore with nothing transferring, then drag the new SafeStore into Applications. Updates work by themselves after that",
+  "build": "99",
+  "notes": "Fixes backup drives dropping out while SafeStore checks the backup.\n\n- A backup drive that disconnects while SafeStore is checking the backup no longer marks files as changed\n- Plug it back in and the check and uploads carry on by themselves\n- If this update won't install: download SafeStore.dmg from the beta releases page, quit SafeStore with nothing transferring, then drag the new SafeStore into Applications. Updates work by themselves after that",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-98/SafeStore.dmg",
-  "dmgShareUrl": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-98/SafeStore.dmg",
-  "sha256": "cb31cdeee37fa641e731f2702db35d2466863ef09cf949f411115d1eef52a515",
-  "size": 12460798,
-  "publishedAt": "2026-11-11T21:13:24Z",
+  "dmgURL": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-99/SafeStore.dmg",
+  "dmgShareUrl": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-99/SafeStore.dmg",
+  "sha256": "2dc02130e74c070f0c22f0418b88d6335bba52b7356b3a4d0aeee1e81a5a17bd",
+  "size": 12480797,
+  "publishedAt": "2026-11-11T22:31:18Z",
   "readsLedgerSchema": 2
 }
