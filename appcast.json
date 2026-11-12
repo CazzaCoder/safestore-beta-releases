@@ -1,12 +1,12 @@
 {
   "version": "0.3",
-  "build": "99",
-  "notes": "Fixes backup drives dropping out while SafeStore checks the backup.\n\n- A backup drive that disconnects while SafeStore is checking the backup no longer marks files as changed\n- Plug it back in and the check and uploads carry on by themselves\n- If this update won't install: download SafeStore.dmg from the beta releases page, quit SafeStore with nothing transferring, then drag the new SafeStore into Applications. Updates work by themselves after that",
+  "build": "100",
+  "notes": "Follow-up to 99 for backup drives that drop out.\n\n- A drive that disconnects during a backup check can no longer leave a transfer stuck at \"checking backup\"\n- A flaky cable can no longer mark a good file as changed on the drive\n- Verify backup files says plainly when the drive disconnected mid-check, instead of listing those files as failures\n- If this update won't install: download SafeStore.dmg from the beta releases page, quit SafeStore with nothing transferring, then drag the new SafeStore into Applications. Updates work by themselves after that",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-99/SafeStore.dmg",
-  "dmgShareUrl": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-99/SafeStore.dmg",
-  "sha256": "2dc02130e74c070f0c22f0418b88d6335bba52b7356b3a4d0aeee1e81a5a17bd",
-  "size": 12480797,
-  "publishedAt": "2026-11-11T22:31:18Z",
+  "dmgURL": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-100/SafeStore.dmg",
+  "dmgShareUrl": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-100/SafeStore.dmg",
+  "sha256": "e35bd5904f5489f34f6a0f7e91d4ac2d54545adefc456c96a5432df1ebbb8f79",
+  "size": 12495809,
+  "publishedAt": "2026-11-12T22:30:40Z",
   "readsLedgerSchema": 2
 }
