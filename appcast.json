@@ -1,12 +1,12 @@
 {
   "version": "0.3",
-  "build": "100",
-  "notes": "Follow-up to 99 for backup drives that drop out.\n\n- A drive that disconnects during a backup check can no longer leave a transfer stuck at \"checking backup\"\n- A flaky cable can no longer mark a good file as changed on the drive\n- Verify backup files says plainly when the drive disconnected mid-check, instead of listing those files as failures\n- If this update won't install: download SafeStore.dmg from the beta releases page, quit SafeStore with nothing transferring, then drag the new SafeStore into Applications. Updates work by themselves after that",
+  "build": "101",
+  "notes": "Smoother screens while transfers run.\n\n- The window stays responsive while cards copy, check and upload, including cards with thousands of photos\n- The transfer log and the office's Notion row now show the upload speed\n- No change to how footage is copied or verified\n- If this update won't install: download SafeStore.dmg from the beta releases page, quit SafeStore with nothing transferring, then drag the new SafeStore into Applications. Updates work by themselves after that",
   "minOS": "13.0",
-  "dmgURL": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-100/SafeStore.dmg",
-  "dmgShareUrl": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-100/SafeStore.dmg",
-  "sha256": "e35bd5904f5489f34f6a0f7e91d4ac2d54545adefc456c96a5432df1ebbb8f79",
-  "size": 12495809,
-  "publishedAt": "2026-11-12T22:30:40Z",
+  "dmgURL": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-101/SafeStore.dmg",
+  "dmgShareUrl": "https://github.com/CazzaCoder/safestore-beta-releases/releases/download/build-101/SafeStore.dmg",
+  "sha256": "c2f7f19d03870be481d1b7061b6d84b35e7f561f5d479c39215af3ea12188d8c",
+  "size": 12403818,
+  "publishedAt": "2026-11-17T22:17:06Z",
   "readsLedgerSchema": 2
 }
